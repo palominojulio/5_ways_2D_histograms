@@ -1,9 +1,5 @@
 5 Ways to do 2D Histograms in R
 ====================
-Myles Harrison
-
-everydayanalytics.ca
-
 Example code for creating 2D histograms in R using 5 different methods:
 hexbin (hexbin), hist2d (gplots), stat_bin2d (ggplot), kde2d (MASS), freq + findInterval (base)
 
