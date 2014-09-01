@@ -1,6 +1,7 @@
 5 Ways to do 2D Histograms in R
 ====================
 Myles Harrison
+
 everydayanalytics.ca
 
 Example code for creating 2D histograms in R using 5 different methods:
